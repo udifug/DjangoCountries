@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <ol class="list-group list-group-numbered">
+        {% for lang in languages %}
+            <li class="list-group-item">{{ lang }}</li>
+        {% endfor %}
+    </ol>
+{% endblock %}
