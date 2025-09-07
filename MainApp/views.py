@@ -2,6 +2,7 @@ from django.shortcuts import render
 import json
 from pathlib import Path
 from django.conf import settings
+from MainApp.models import Country
 
 # Create your views here.
 file_path = settings.BASE_DIR / 'country-by-languages.json'
@@ -18,14 +19,10 @@ def home_page(request):
 
 
 def countries_list(request):
-    # with open(file_path, encoding='utf-8') as f:
-    #     countries_dict = json.load(f)
-    # for countries in countries_dict['country']:
-    #     country = countries['country']
-
+    countries = Country.objects.all()
     context = {
         "pagename": "Список стран",
-        "countries": countries_dict
+        "countries": countries
     }
     return render(request, 'country_list.html', context)
 
