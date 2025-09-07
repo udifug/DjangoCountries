@@ -4,11 +4,6 @@ from pathlib import Path
 from django.conf import settings
 from MainApp.models import Country, Language
 
-# Create your views here.
-file_path = settings.BASE_DIR / 'country-by-languages.json'
-with open(file_path, encoding='utf-8') as f:
-    countries_dict = json.load(f)
-
 
 def home_page(request):
     context = {
@@ -31,7 +26,7 @@ def country_page(request, name):
     country = get_object_or_404(Country, name=name)
     languages = country.lang.all()
     context = {
-        "pagename": country.name,
+        "pagename": f"Страна: {country.name}",
         "languages": languages,
     }
     return render(request, "country_page.html", context)
@@ -45,3 +40,14 @@ def languages_list(request):
         "languages": lang_list,
     }
     return render(request, 'languages_list.html', context)
+
+
+def language_page(request, name):
+    language = get_object_or_404(Language, name=name)
+    countries = language.countries.all()
+    context = {
+        "pagename": f"Язык: {language.name}",
+        "language": language,
+        'countries': countries
+    }
+    return render(request, 'language_page.html', context)

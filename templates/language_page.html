@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="list-group">
+    <div class="list-group-item list-group-item-action active" aria-current="true">Список стран в которых говорят на этом языке</div>
+    <ol class="list-group list-group-numbered">
+    {% for country in countries %}
+        <li class="list-group-item">
+            <a href="{% url 'country-page' country.name %}">{{ country.name }}</a>
+        </li>
+    {% endfor %}
+    </ol>
+    </div>
+{% endblock %}

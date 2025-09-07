@@ -3,7 +3,9 @@
 {% block content %}
     <ol class="list-group list-group-numbered">
         {% for lang in languages %}
-            <li class="list-group-item">{{ lang.name }}</li>
+            <li class="list-group-item">
+            <a href="{% url 'language-page' lang.name %}">{{ lang.name }}</a>
+            </li>
         {% endfor %}
     </ol>
 {% endblock %}
