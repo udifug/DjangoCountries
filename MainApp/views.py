@@ -1,8 +1,8 @@
-from django.shortcuts import render
+from django.shortcuts import render, get_object_or_404
 import json
 from pathlib import Path
 from django.conf import settings
-from MainApp.models import Country
+from MainApp.models import Country, Language
 
 # Create your views here.
 file_path = settings.BASE_DIR / 'country-by-languages.json'
@@ -28,22 +28,17 @@ def countries_list(request):
 
 
 def country_page(request, name):
-    for country in countries_dict:
-        if country["country"] == name:
-            context = {
-                "pagename": country["country"],
-                "languages": country["languages"]
-            }
-            return render(request,"country_page.html", context)
-
-
+    country = get_object_or_404(Country, name=name)
+    languages = country.lang.all()
+    context = {
+        "pagename": country.name,
+        "languages": languages,
+    }
+    return render(request, "country_page.html", context)
 
 
 def languages_list(request):
-    lang_list = set()
-    for countries in countries_dict:
-        for lang in countries.get("languages"):
-            lang_list.add(lang)
+    lang_list = Language.objects.all()
 
     context = {
         "pagename": "Список языков",

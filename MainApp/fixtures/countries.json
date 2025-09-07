@@ -3,1631 +3,3088 @@
   "model": "MainApp.country",
   "pk": 1,
   "fields": {
-    "name": "Aruba"
+    "name": "Aruba",
+    "lang": [
+      1,
+      2,
+      3,
+      4
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 2,
   "fields": {
-    "name": "Afghanistan"
+    "name": "Afghanistan",
+    "lang": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 3,
   "fields": {
-    "name": "Angola"
+    "name": "Angola",
+    "lang": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 4,
   "fields": {
-    "name": "Anguilla"
+    "name": "Anguilla",
+    "lang": [
+      2
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 5,
   "fields": {
-    "name": "Albania"
+    "name": "Albania",
+    "lang": [
+      19,
+      20,
+      21
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 6,
   "fields": {
-    "name": "Andorra"
+    "name": "Andorra",
+    "lang": [
+      4,
+      22,
+      23,
+      24
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 7,
   "fields": {
-    "name": "Netherlands Antilles"
+    "name": "Netherlands Antilles",
+    "lang": [
+      1,
+      2,
+      3
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 8,
   "fields": {
-    "name": "United Arab Emirates"
+    "name": "United Arab Emirates",
+    "lang": [
+      25,
+      26
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 9,
   "fields": {
-    "name": "Argentina"
+    "name": "Argentina",
+    "lang": [
+      4,
+      27,
+      28
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 10,
   "fields": {
-    "name": "Armenia"
+    "name": "Armenia",
+    "lang": [
+      29,
+      30
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 11,
   "fields": {
-    "name": "American Samoa"
+    "name": "American Samoa",
+    "lang": [
+      2,
+      31,
+      32
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 12,
   "fields": {
-    "name": "Antigua and Barbuda"
+    "name": "Antigua and Barbuda",
+    "lang": [
+      2,
+      33
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 13,
   "fields": {
-    "name": "Australia"
+    "name": "Australia",
+    "lang": [
+      2,
+      20,
+      25,
+      28,
+      34,
+      35,
+      36,
+      37
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 14,
   "fields": {
-    "name": "Austria"
+    "name": "Austria",
+    "lang": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 15,
   "fields": {
-    "name": "Azerbaijan"
+    "name": "Azerbaijan",
+    "lang": [
+      29,
+      30,
+      44,
+      45
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 16,
   "fields": {
-    "name": "Burundi"
+    "name": "Burundi",
+    "lang": [
+      23,
+      46,
+      47
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 17,
   "fields": {
-    "name": "Belgium"
+    "name": "Belgium",
+    "lang": [
+      1,
+      23,
+      25,
+      28,
+      35,
+      43
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 18,
   "fields": {
-    "name": "Benin"
+    "name": "Benin",
+    "lang": [
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 19,
   "fields": {
-    "name": "Burkina Faso"
+    "name": "Burkina Faso",
+    "lang": [
+      52,
+      55,
+      56,
+      57,
+      58,
+      59
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 20,
   "fields": {
-    "name": "Bangladesh"
+    "name": "Bangladesh",
+    "lang": [
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 21,
   "fields": {
-    "name": "Bulgaria"
+    "name": "Bulgaria",
+    "lang": [
+      21,
+      43,
+      67,
+      68
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 22,
   "fields": {
-    "name": "Bahrain"
+    "name": "Bahrain",
+    "lang": [
+      2,
+      25
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 23,
   "fields": {
-    "name": "Bahamas"
+    "name": "Bahamas",
+    "lang": [
+      33,
+      69
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 24,
   "fields": {
-    "name": "Bosnia and Herzegovina"
+    "name": "Bosnia and Herzegovina",
+    "lang": [
+      70
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 25,
   "fields": {
-    "name": "Belarus"
+    "name": "Belarus",
+    "lang": [
+      40,
+      45,
+      71,
+      72
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 26,
   "fields": {
-    "name": "Belize"
+    "name": "Belize",
+    "lang": [
+      2,
+      4,
+      73,
+      74
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 27,
   "fields": {
-    "name": "Bermuda"
+    "name": "Bermuda",
+    "lang": [
+      2
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 28,
   "fields": {
-    "name": "Bolivia"
+    "name": "Bolivia",
+    "lang": [
+      4,
+      75,
+      76,
+      77
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 29,
   "fields": {
-    "name": "Brazil"
+    "name": "Brazil",
+    "lang": [
+      24,
+      27,
+      28,
+      35,
+      78
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 30,
   "fields": {
-    "name": "Barbados"
+    "name": "Barbados",
+    "lang": [
+      2,
+      79
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 31,
   "fields": {
-    "name": "Brunei"
+    "name": "Brunei",
+    "lang": [
+      2,
+      80,
+      81,
+      82
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 32,
   "fields": {
-    "name": "Bhutan"
+    "name": "Bhutan",
+    "lang": [
+      83,
+      84,
+      85
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 33,
   "fields": {
-    "name": "Botswana"
+    "name": "Botswana",
+    "lang": [
+      86,
+      87,
+      88,
+      89,
+      90
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 34,
   "fields": {
-    "name": "Central African Republic"
+    "name": "Central African Republic",
+    "lang": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 35,
   "fields": {
-    "name": "Canada"
+    "name": "Canada",
+    "lang": [
+      1,
+      2,
+      4,
+      23,
+      24,
+      28,
+      35,
+      40,
+      72,
+      80,
+      97,
+      98
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 36,
   "fields": {
-    "name": "Cocos (Keeling) Islands"
+    "name": "Cocos (Keeling) Islands",
+    "lang": [
+      2,
+      81
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 37,
   "fields": {
-    "name": "Switzerland"
+    "name": "Switzerland",
+    "lang": [
+      23,
+      28,
+      35,
+      99
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 38,
   "fields": {
-    "name": "Chile"
+    "name": "Chile",
+    "lang": [
+      4,
+      75,
+      100,
+      101
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 39,
   "fields": {
-    "name": "China"
+    "name": "China",
+    "lang": [
+      80,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 40,
   "fields": {
-    "name": "Ivory Coast"
+    "name": "Ivory Coast",
+    "lang": [
+      113,
+      114,
+      115,
+      116,
+      117
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 41,
   "fields": {
-    "name": "Cameroon"
+    "name": "Cameroon",
+    "lang": [
+      52,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 42,
   "fields": {
-    "name": "Congo, The Democratic Republic of the"
+    "name": "Congo, The Democratic Republic of the",
+    "lang": [
+      47,
+      125,
+      126,
+      127
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 43,
   "fields": {
-    "name": "Congo"
+    "name": "Congo",
+    "lang": [
+      12,
+      128,
+      129,
+      130,
+      131,
+      132
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 44,
   "fields": {
-    "name": "Cook Islands"
+    "name": "Cook Islands",
+    "lang": [
+      2,
+      133
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 45,
   "fields": {
-    "name": "Colombia"
+    "name": "Colombia",
+    "lang": [
+      4,
+      33,
+      134,
+      135,
+      136
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 46,
   "fields": {
-    "name": "Comoros"
+    "name": "Comoros",
+    "lang": [
+      137,
+      138,
+      139,
+      140,
+      141
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 47,
   "fields": {
-    "name": "Cape Verde"
+    "name": "Cape Verde",
+    "lang": [
+      24,
+      142
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 48,
   "fields": {
-    "name": "Costa Rica"
+    "name": "Costa Rica",
+    "lang": [
+      4,
+      33,
+      80,
+      136
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 49,
   "fields": {
-    "name": "Cuba"
+    "name": "Cuba",
+    "lang": [
+      4
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 50,
   "fields": {
-    "name": "Christmas Island"
+    "name": "Christmas Island",
+    "lang": [
+      2,
+      80
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 51,
   "fields": {
-    "name": "Cayman Islands"
+    "name": "Cayman Islands",
+    "lang": [
+      2
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 52,
   "fields": {
-    "name": "Cyprus"
+    "name": "Cyprus",
+    "lang": [
+      20,
+      43
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 53,
   "fields": {
-    "name": "Czech Republic"
+    "name": "Czech Republic",
+    "lang": [
+      35,
+      38,
+      39,
+      40,
+      68,
+      143,
+      144,
+      145
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 54,
   "fields": {
-    "name": "Germany"
+    "name": "Germany",
+    "lang": [
+      20,
+      28,
+      35,
+      40,
+      43,
+      146
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 55,
   "fields": {
-    "name": "Djibouti"
+    "name": "Djibouti",
+    "lang": [
+      25,
+      147,
+      148
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 56,
   "fields": {
-    "name": "Dominica"
+    "name": "Dominica",
+    "lang": [
+      33,
+      69
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 57,
   "fields": {
-    "name": "Denmark"
+    "name": "Denmark",
+    "lang": [
+      2,
+      25,
+      35,
+      43,
+      149,
+      150,
+      151
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 58,
   "fields": {
-    "name": "Dominican Republic"
+    "name": "Dominican Republic",
+    "lang": [
+      4,
+      69
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 59,
   "fields": {
-    "name": "Algeria"
+    "name": "Algeria",
+    "lang": [
+      25,
+      152
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 60,
   "fields": {
-    "name": "Ecuador"
+    "name": "Ecuador",
+    "lang": [
+      4,
+      77
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 61,
   "fields": {
-    "name": "Egypt"
+    "name": "Egypt",
+    "lang": [
+      25,
+      153
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 62,
   "fields": {
-    "name": "Eritrea"
+    "name": "Eritrea",
+    "lang": [
+      147,
+      154,
+      155,
+      156,
+      157,
+      158
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 63,
   "fields": {
-    "name": "Western Sahara"
+    "name": "Western Sahara",
+    "lang": [
+      25
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 64,
   "fields": {
-    "name": "Spain"
+    "name": "Spain",
+    "lang": [
+      4,
+      22,
+      159,
+      160
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 65,
   "fields": {
-    "name": "Estonia"
+    "name": "Estonia",
+    "lang": [
+      45,
+      71,
+      72,
+      161,
+      162
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 66,
   "fields": {
-    "name": "Eswatini"
+    "name": "Eswatini",
+    "lang": [
+      163,
+      164
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 67,
   "fields": {
-    "name": "Ethiopia"
+    "name": "Ethiopia",
+    "lang": [
+      148,
+      158,
+      165,
+      166,
+      167,
+      168,
+      169
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 68,
   "fields": {
-    "name": "Finland"
+    "name": "Finland",
+    "lang": [
+      45,
+      151,
+      161,
+      162,
+      170
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 69,
   "fields": {
-    "name": "Fiji Islands"
+    "name": "Fiji Islands",
+    "lang": [
+      26,
+      171
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 70,
   "fields": {
-    "name": "Falkland Islands"
+    "name": "Falkland Islands",
+    "lang": [
+      2
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 71,
   "fields": {
-    "name": "France"
+    "name": "France",
+    "lang": [
+      4,
+      23,
+      24,
+      25,
+      28,
+      43
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 72,
   "fields": {
-    "name": "Faroe Islands"
+    "name": "Faroe Islands",
+    "lang": [
+      149,
+      172
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 73,
   "fields": {
-    "name": "Micronesia, Federated States of"
+    "name": "Micronesia, Federated States of",
+    "lang": [
+      173,
+      174,
+      175,
+      176,
+      177,
+      178
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 74,
   "fields": {
-    "name": "Gabon"
+    "name": "Gabon",
+    "lang": [
+      120,
+      128,
+      179,
+      180
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 75,
   "fields": {
-    "name": "United Kingdom"
+    "name": "United Kingdom",
+    "lang": [
+      2,
+      181,
+      182
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 76,
   "fields": {
-    "name": "Georgia"
+    "name": "Georgia",
+    "lang": [
+      29,
+      30,
+      45,
+      183,
+      184,
+      185
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 77,
   "fields": {
-    "name": "Ghana"
+    "name": "Ghana",
+    "lang": [
+      53,
+      58,
+      59,
+      113,
+      186,
+      187
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 78,
   "fields": {
-    "name": "Gibraltar"
+    "name": "Gibraltar",
+    "lang": [
+      2,
+      25
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 79,
   "fields": {
-    "name": "Guinea"
+    "name": "Guinea",
+    "lang": [
+      52,
+      116,
+      188,
+      189,
+      190,
+      191,
+      192
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 80,
   "fields": {
-    "name": "Guadeloupe"
+    "name": "Guadeloupe",
+    "lang": [
+      23,
+      69
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 81,
   "fields": {
-    "name": "Gambia"
+    "name": "Gambia",
+    "lang": [
+      52,
+      116,
+      193,
+      194,
+      195
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 82,
   "fields": {
-    "name": "Guinea-Bissau"
+    "name": "Guinea-Bissau",
+    "lang": [
+      24,
+      52,
+      116,
+      142,
+      196,
+      197
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 83,
   "fields": {
-    "name": "Equatorial Guinea"
+    "name": "Equatorial Guinea",
+    "lang": [
+      120,
+      198
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 84,
   "fields": {
-    "name": "Greece"
+    "name": "Greece",
+    "lang": [
+      20,
+      43
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 85,
   "fields": {
-    "name": "Grenada"
+    "name": "Grenada",
+    "lang": [
+      33
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 86,
   "fields": {
-    "name": "Greenland"
+    "name": "Greenland",
+    "lang": [
+      149,
+      199
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 87,
   "fields": {
-    "name": "Guatemala"
+    "name": "Guatemala",
+    "lang": [
+      4,
+      200,
+      201,
+      202,
+      203
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 88,
   "fields": {
-    "name": "French Guiana"
+    "name": "French Guiana",
+    "lang": [
+      27,
+      69
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 89,
   "fields": {
-    "name": "Guam"
+    "name": "Guam",
+    "lang": [
+      2,
+      78,
+      204,
+      205,
+      206
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 90,
   "fields": {
-    "name": "Guyana"
+    "name": "Guyana",
+    "lang": [
+      33,
+      134,
+      135
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 91,
   "fields": {
-    "name": "Hong Kong"
+    "name": "Hong Kong",
+    "lang": [
+      2,
+      34,
+      207,
+      208,
+      209
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 92,
   "fields": {
-    "name": "Honduras"
+    "name": "Honduras",
+    "lang": [
+      4,
+      33,
+      73,
+      210
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 93,
   "fields": {
-    "name": "Croatia"
+    "name": "Croatia",
+    "lang": [
+      36,
+      42
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 94,
   "fields": {
-    "name": "Haiti"
+    "name": "Haiti",
+    "lang": [
+      23,
+      211
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 95,
   "fields": {
-    "name": "Hungary"
+    "name": "Hungary",
+    "lang": [
+      35,
+      36,
+      39,
+      41,
+      68,
+      145
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 96,
   "fields": {
-    "name": "Indonesia"
+    "name": "Indonesia",
+    "lang": [
+      81,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 97,
   "fields": {
-    "name": "India"
+    "name": "India",
+    "lang": [
+      2,
+      26,
+      60,
+      83,
+      85,
+      98,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 98,
   "fields": {
-    "name": "Ireland"
+    "name": "Ireland",
+    "lang": [
+      2,
+      236
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 99,
   "fields": {
-    "name": "Iran"
+    "name": "Iran",
+    "lang": [
+      5,
+      8,
+      25,
+      30,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 100,
   "fields": {
-    "name": "Iraq"
+    "name": "Iraq",
+    "lang": [
+      25,
+      30,
+      239,
+      242,
+      243
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 101,
   "fields": {
-    "name": "Iceland"
+    "name": "Iceland",
+    "lang": [
+      2,
+      244
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 102,
   "fields": {
-    "name": "Israel"
+    "name": "Israel",
+    "lang": [
+      25,
+      45,
+      245
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 103,
   "fields": {
-    "name": "Italy"
+    "name": "Italy",
+    "lang": [
+      19,
+      23,
+      28,
+      35,
+      42,
+      68,
+      246,
+      247
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 104,
   "fields": {
-    "name": "Jamaica"
+    "name": "Jamaica",
+    "lang": [
+      26,
+      33
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 105,
   "fields": {
-    "name": "Jordan"
+    "name": "Jordan",
+    "lang": [
+      25,
+      29,
+      248
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 106,
   "fields": {
-    "name": "Japan"
+    "name": "Japan",
+    "lang": [
+      2,
+      78,
+      80,
+      205,
+      206,
+      249
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 107,
   "fields": {
-    "name": "Kazakhstan"
+    "name": "Kazakhstan",
+    "lang": [
+      9,
+      35,
+      45,
+      72,
+      250,
+      251
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 108,
   "fields": {
-    "name": "Kenya"
+    "name": "Kenya",
+    "lang": [
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 109,
   "fields": {
-    "name": "Kyrgyzstan"
+    "name": "Kyrgyzstan",
+    "lang": [
+      9,
+      45,
+      72,
+      250,
+      251,
+      262,
+      263
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 110,
   "fields": {
-    "name": "Cambodia"
+    "name": "Cambodia",
+    "lang": [
+      264
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 111,
   "fields": {
-    "name": "Kiribati"
+    "name": "Kiribati",
+    "lang": [
+      265,
+      266
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 112,
   "fields": {
-    "name": "Saint Kitts and Nevis"
+    "name": "Saint Kitts and Nevis",
+    "lang": [
+      2,
+      33
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 113,
   "fields": {
-    "name": "South Korea"
+    "name": "South Korea",
+    "lang": [
+      80,
+      205
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 114,
   "fields": {
-    "name": "Kuwait"
+    "name": "Kuwait",
+    "lang": [
+      2,
+      25
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 115,
   "fields": {
-    "name": "Laos"
+    "name": "Laos",
+    "lang": [
+      267,
+      268,
+      269,
+      270
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 116,
   "fields": {
-    "name": "Lebanon"
+    "name": "Lebanon",
+    "lang": [
+      23,
+      25,
+      29
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 117,
   "fields": {
-    "name": "Liberia"
+    "name": "Liberia",
+    "lang": [
+      115,
+      116,
+      189,
+      190,
+      271,
+      272,
+      273,
+      274
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 118,
   "fields": {
-    "name": "Libya"
+    "name": "Libya",
+    "lang": [
+      25,
+      152
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 119,
   "fields": {
-    "name": "Saint Lucia"
+    "name": "Saint Lucia",
+    "lang": [
+      2,
+      69
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 120,
   "fields": {
-    "name": "Liechtenstein"
+    "name": "Liechtenstein",
+    "lang": [
+      28,
+      35,
+      43
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 121,
   "fields": {
-    "name": "Sri Lanka"
+    "name": "Sri Lanka",
+    "lang": [
+      226,
+      275,
+      276
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 122,
   "fields": {
-    "name": "Lesotho"
+    "name": "Lesotho",
+    "lang": [
+      2,
+      164,
+      277
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 123,
   "fields": {
-    "name": "Lithuania"
+    "name": "Lithuania",
+    "lang": [
+      40,
+      45,
+      71,
+      72,
+      278
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 124,
   "fields": {
-    "name": "Luxembourg"
+    "name": "Luxembourg",
+    "lang": [
+      23,
+      24,
+      28,
+      35,
+      279
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 125,
   "fields": {
-    "name": "Latvia"
+    "name": "Latvia",
+    "lang": [
+      40,
+      45,
+      71,
+      72,
+      278,
+      280
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 126,
   "fields": {
-    "name": "Macao"
+    "name": "Macao",
+    "lang": [
+      2,
+      24,
+      34,
+      281
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 127,
   "fields": {
-    "name": "Morocco"
+    "name": "Morocco",
+    "lang": [
+      25,
+      152
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 128,
   "fields": {
-    "name": "Monaco"
+    "name": "Monaco",
+    "lang": [
+      2,
+      23,
+      28,
+      282
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 129,
   "fields": {
-    "name": "Moldova"
+    "name": "Moldova",
+    "lang": [
+      41,
+      45,
+      67,
+      72,
+      283
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 130,
   "fields": {
-    "name": "Madagascar"
+    "name": "Madagascar",
+    "lang": [
+      23,
+      284
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 131,
   "fields": {
-    "name": "Maldives"
+    "name": "Maldives",
+    "lang": [
+      2,
+      285
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 132,
   "fields": {
-    "name": "Mexico"
+    "name": "Mexico",
+    "lang": [
+      4,
+      286,
+      287,
+      288,
+      289,
+      290
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 133,
   "fields": {
-    "name": "Marshall Islands"
+    "name": "Marshall Islands",
+    "lang": [
+      2,
+      291
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 134,
   "fields": {
-    "name": "Macedonia"
+    "name": "Macedonia",
+    "lang": [
+      19,
+      21,
+      36,
+      43,
+      68
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 135,
   "fields": {
-    "name": "Mali"
+    "name": "Mali",
+    "lang": [
+      52,
+      194,
+      292,
+      293,
+      294,
+      295
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 136,
   "fields": {
-    "name": "Malta"
+    "name": "Malta",
+    "lang": [
+      2,
+      296
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 137,
   "fields": {
-    "name": "Myanmar"
+    "name": "Myanmar",
+    "lang": [
+      297,
+      298,
+      299,
+      300,
+      301,
+      302,
+      303,
+      304
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 138,
   "fields": {
-    "name": "Mongolia"
+    "name": "Mongolia",
+    "lang": [
+      106,
+      250,
+      305,
+      306,
+      307,
+      308
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 139,
   "fields": {
-    "name": "Northern Mariana Islands"
+    "name": "Northern Mariana Islands",
+    "lang": [
+      2,
+      80,
+      204,
+      205,
+      206,
+      309
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 140,
   "fields": {
-    "name": "Mozambique"
+    "name": "Mozambique",
+    "lang": [
+      89,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 141,
   "fields": {
-    "name": "Mauritania"
+    "name": "Mauritania",
+    "lang": [
+      52,
+      194,
+      195,
+      319,
+      320,
+      321
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 142,
   "fields": {
-    "name": "Montserrat"
+    "name": "Montserrat",
+    "lang": [
+      2
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 143,
   "fields": {
-    "name": "Martinique"
+    "name": "Martinique",
+    "lang": [
+      23,
+      69
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 144,
   "fields": {
-    "name": "Mauritius"
+    "name": "Mauritius",
+    "lang": [
+      23,
+      26,
+      69,
+      224,
+      226,
+      322
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 145,
   "fields": {
-    "name": "Malawi"
+    "name": "Malawi",
+    "lang": [
+      311,
+      323,
+      324,
+      325
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 146,
   "fields": {
-    "name": "Malaysia"
+    "name": "Malaysia",
+    "lang": [
+      2,
+      80,
+      81,
+      226,
+      326,
+      327
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 147,
   "fields": {
-    "name": "Mayotte"
+    "name": "Mayotte",
+    "lang": [
+      23,
+      284,
+      328
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 148,
   "fields": {
-    "name": "Namibia"
+    "name": "Namibia",
+    "lang": [
+      35,
+      88,
+      329,
+      330,
+      331,
+      332,
+      333,
+      334
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 149,
   "fields": {
-    "name": "New Caledonia"
+    "name": "New Caledonia",
+    "lang": [
+      23,
+      335,
+      336
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 150,
   "fields": {
-    "name": "Niger"
+    "name": "Niger",
+    "lang": [
+      52,
+      295,
+      337,
+      338,
+      339
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 151,
   "fields": {
-    "name": "Norfolk Island"
+    "name": "Norfolk Island",
+    "lang": [
+      2
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 152,
   "fields": {
-    "name": "Nigeria"
+    "name": "Nigeria",
+    "lang": [
+      52,
+      337,
+      338,
+      340,
+      341,
+      342,
+      343,
+      344,
+      345,
+      346
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 153,
   "fields": {
-    "name": "Nicaragua"
+    "name": "Nicaragua",
+    "lang": [
+      4,
+      33,
+      210,
+      347
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 154,
   "fields": {
-    "name": "Niue"
+    "name": "Niue",
+    "lang": [
+      2,
+      348
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 155,
   "fields": {
-    "name": "Netherlands"
+    "name": "Netherlands",
+    "lang": [
+      1,
+      25,
+      43,
+      349
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 156,
   "fields": {
-    "name": "Norway"
+    "name": "Norway",
+    "lang": [
+      2,
+      149,
+      150,
+      151,
+      170
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 157,
   "fields": {
-    "name": "Nepal"
+    "name": "Nepal",
+    "lang": [
+      26,
+      85,
+      233,
+      322,
+      350,
+      351,
+      352
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 158,
   "fields": {
-    "name": "Nauru"
+    "name": "Nauru",
+    "lang": [
+      2,
+      80,
+      265,
+      266,
+      353
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 159,
   "fields": {
-    "name": "New Zealand"
+    "name": "New Zealand",
+    "lang": [
+      2,
+      133
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 160,
   "fields": {
-    "name": "Oman"
+    "name": "Oman",
+    "lang": [
+      5,
+      25
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 161,
   "fields": {
-    "name": "Pakistan"
+    "name": "Pakistan",
+    "lang": [
+      5,
+      7,
+      98,
+      228,
+      235,
+      354,
+      355,
+      356
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 162,
   "fields": {
-    "name": "Panama"
+    "name": "Panama",
+    "lang": [
+      4,
+      25,
+      33,
+      357,
+      358,
+      359
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 163,
   "fields": {
-    "name": "Pitcairn"
+    "name": "Pitcairn",
+    "lang": [
+      360
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 164,
   "fields": {
-    "name": "Peru"
+    "name": "Peru",
+    "lang": [
+      4,
+      75,
+      77
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 165,
   "fields": {
-    "name": "Philippines"
+    "name": "Philippines",
+    "lang": [
+      361,
+      362,
+      363,
+      364,
+      365,
+      366,
+      367,
+      368,
+      369,
+      370
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 166,
   "fields": {
-    "name": "Palau"
+    "name": "Palau",
+    "lang": [
+      2,
+      80,
+      206,
+      371
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 167,
   "fields": {
-    "name": "Papua New Guinea"
+    "name": "Papua New Guinea",
+    "lang": [
+      335,
+      372
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 168,
   "fields": {
-    "name": "Poland"
+    "name": "Poland",
+    "lang": [
+      35,
+      40,
+      71,
+      72
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 169,
   "fields": {
-    "name": "Puerto Rico"
+    "name": "Puerto Rico",
+    "lang": [
+      2,
+      4
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 170,
   "fields": {
-    "name": "North Korea"
+    "name": "North Korea",
+    "lang": [
+      80,
+      205
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 171,
   "fields": {
-    "name": "Portugal"
+    "name": "Portugal",
+    "lang": [
+      24
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 172,
   "fields": {
-    "name": "Paraguay"
+    "name": "Paraguay",
+    "lang": [
+      4,
+      24,
+      35,
+      76
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 173,
   "fields": {
-    "name": "Palestine"
+    "name": "Palestine",
+    "lang": [
+      25,
+      245
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 174,
   "fields": {
-    "name": "French Polynesia"
+    "name": "French Polynesia",
+    "lang": [
+      23,
+      80,
+      373
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 175,
   "fields": {
-    "name": "Qatar"
+    "name": "Qatar",
+    "lang": [
+      25,
+      228
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 176,
   "fields": {
-    "name": "Reunion"
+    "name": "Reunion",
+    "lang": [
+      69,
+      80,
+      137,
+      226,
+      284
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 177,
   "fields": {
-    "name": "Romania"
+    "name": "Romania",
+    "lang": [
+      35,
+      36,
+      39,
+      41,
+      68,
+      72
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 178,
   "fields": {
-    "name": "Russia"
+    "name": "Russia",
+    "lang": [
+      45,
+      71,
+      72,
+      250,
+      251,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379,
+      380
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 179,
   "fields": {
-    "name": "Rwanda"
+    "name": "Rwanda",
+    "lang": [
+      23,
+      381
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 180,
   "fields": {
-    "name": "Saudi Arabia"
+    "name": "Saudi Arabia",
+    "lang": [
+      25
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 181,
   "fields": {
-    "name": "Sudan"
+    "name": "Sudan",
+    "lang": [
+      25,
+      382,
+      383,
+      384,
+      385,
+      386,
+      387,
+      388,
+      389,
+      390
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 182,
   "fields": {
-    "name": "Senegal"
+    "name": "Senegal",
+    "lang": [
+      52,
+      116,
+      193,
+      194,
+      195,
+      391
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 183,
   "fields": {
-    "name": "Serbia"
+    "name": "Serbia",
+    "lang": [
+      2,
+      39,
+      41,
+      145,
+      392,
+      393,
+      394,
+      395,
+      396
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 184,
   "fields": {
-    "name": "Singapore"
+    "name": "Singapore",
+    "lang": [
+      80,
+      81,
+      226
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 185,
   "fields": {
-    "name": "Saint Helena"
+    "name": "Saint Helena",
+    "lang": [
+      2
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 186,
   "fields": {
-    "name": "Svalbard and Jan Mayen"
+    "name": "Svalbard and Jan Mayen",
+    "lang": [
+      45,
+      150
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 187,
   "fields": {
-    "name": "Solomon Islands"
+    "name": "Solomon Islands",
+    "lang": [
+      335,
+      336,
+      372
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 188,
   "fields": {
-    "name": "Sierra Leone"
+    "name": "Sierra Leone",
+    "lang": [
+      52,
+      192,
+      397,
+      398,
+      399,
+      400,
+      401,
+      402
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 189,
   "fields": {
-    "name": "El Salvador"
+    "name": "El Salvador",
+    "lang": [
+      4,
+      403
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 190,
   "fields": {
-    "name": "San Marino"
+    "name": "San Marino",
+    "lang": [
+      28
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 191,
   "fields": {
-    "name": "Somalia"
+    "name": "Somalia",
+    "lang": [
+      25,
+      148
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 192,
   "fields": {
-    "name": "Saint Pierre and Miquelon"
+    "name": "Saint Pierre and Miquelon",
+    "lang": [
+      23
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 193,
   "fields": {
-    "name": "Sao Tome and Principe"
+    "name": "Sao Tome and Principe",
+    "lang": [
+      23,
+      142
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 194,
   "fields": {
-    "name": "Suriname"
+    "name": "Suriname",
+    "lang": [
+      26,
+      404
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 195,
   "fields": {
-    "name": "Slovakia"
+    "name": "Slovakia",
+    "lang": [
+      39,
+      68,
+      145,
+      405,
+      406
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 196,
   "fields": {
-    "name": "Slovenia"
+    "name": "Slovenia",
+    "lang": [
+      36,
+      39,
+      42
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 197,
   "fields": {
-    "name": "Sweden"
+    "name": "Sweden",
+    "lang": [
+      4,
+      25,
+      146,
+      150,
+      151,
+      162
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 198,
   "fields": {
-    "name": "Seychelles"
+    "name": "Seychelles",
+    "lang": [
+      2,
+      23,
+      407
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 199,
   "fields": {
-    "name": "Syria"
+    "name": "Syria",
+    "lang": [
+      25,
+      239
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 200,
   "fields": {
-    "name": "Turks and Caicos Islands"
+    "name": "Turks and Caicos Islands",
+    "lang": [
+      2
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 201,
   "fields": {
-    "name": "Chad"
+    "name": "Chad",
+    "lang": [
+      25,
+      96,
+      408,
+      409,
+      410,
+      411,
+      412,
+      413
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 202,
   "fields": {
-    "name": "Togo"
+    "name": "Togo",
+    "lang": [
+      58,
+      186,
+      414,
+      415,
+      416,
+      417,
+      418,
+      419
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 203,
   "fields": {
-    "name": "Thailand"
+    "name": "Thailand",
+    "lang": [
+      80,
+      81,
+      264,
+      267,
+      270,
+      420
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 204,
   "fields": {
-    "name": "Tajikistan"
+    "name": "Tajikistan",
+    "lang": [
+      9,
+      45,
+      263
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 205,
   "fields": {
-    "name": "Tokelau"
+    "name": "Tokelau",
+    "lang": [
+      2,
+      421
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 206,
   "fields": {
-    "name": "Turkmenistan"
+    "name": "Turkmenistan",
+    "lang": [
+      8,
+      9,
+      45,
+      250
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 207,
   "fields": {
-    "name": "East Timor"
+    "name": "East Timor",
+    "lang": [
+      24,
+      220
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 208,
   "fields": {
-    "name": "Tonga"
+    "name": "Tonga",
+    "lang": [
+      2,
+      32
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 209,
   "fields": {
-    "name": "Trinidad and Tobago"
+    "name": "Trinidad and Tobago",
+    "lang": [
+      2,
+      26,
+      33
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 210,
   "fields": {
-    "name": "Tunisia"
+    "name": "Tunisia",
+    "lang": [
+      25,
+      422,
+      423
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 211,
   "fields": {
-    "name": "Turkey"
+    "name": "Turkey",
+    "lang": [
+      25,
+      43,
+      239
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 212,
   "fields": {
-    "name": "Tuvalu"
+    "name": "Tuvalu",
+    "lang": [
+      2,
+      265,
+      266
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 213,
   "fields": {
-    "name": "Taiwan"
+    "name": "Taiwan",
+    "lang": [
+      209,
+      281,
+      424,
+      425,
+      426,
+      427
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 214,
   "fields": {
-    "name": "Tanzania"
+    "name": "Tanzania",
+    "lang": [
+      47,
+      428,
+      429,
+      430,
+      431,
+      432,
+      433,
+      434,
+      435,
+      436,
+      437,
+      438,
+      439,
+      440
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 215,
   "fields": {
-    "name": "Uganda"
+    "name": "Uganda",
+    "lang": [
+      381,
+      441,
+      442,
+      443,
+      444,
+      445,
+      446,
+      447,
+      448,
+      449
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 216,
   "fields": {
-    "name": "Ukraine"
+    "name": "Ukraine",
+    "lang": [
+      39,
+      40,
+      41,
+      45,
+      67,
+      71,
+      72
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 217,
   "fields": {
-    "name": "United States Minor Outlying Islands"
+    "name": "United States Minor Outlying Islands",
+    "lang": [
+      2
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 218,
   "fields": {
-    "name": "Uruguay"
+    "name": "Uruguay",
+    "lang": [
+      4
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 219,
   "fields": {
-    "name": "United States"
+    "name": "United States",
+    "lang": [
+      2,
+      4,
+      23,
+      24,
+      28,
+      35,
+      37,
+      40,
+      78,
+      80,
+      205,
+      450
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 220,
   "fields": {
-    "name": "Uzbekistan"
+    "name": "Uzbekistan",
+    "lang": [
+      9,
+      45,
+      250,
+      251,
+      263,
+      451
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 221,
   "fields": {
-    "name": "Holy See (Vatican City State)"
+    "name": "Holy See (Vatican City State)",
+    "lang": [
+      28
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 222,
   "fields": {
-    "name": "Saint Vincent and the Grenadines"
+    "name": "Saint Vincent and the Grenadines",
+    "lang": [
+      2,
+      33
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 223,
   "fields": {
-    "name": "Venezuela"
+    "name": "Venezuela",
+    "lang": [
+      4,
+      452,
+      453
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 224,
   "fields": {
-    "name": "Virgin Islands, British"
+    "name": "Virgin Islands, British",
+    "lang": [
+      2
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 225,
   "fields": {
-    "name": "Virgin Islands, U.S."
+    "name": "Virgin Islands, U.S.",
+    "lang": [
+      2,
+      4,
+      23
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 226,
   "fields": {
-    "name": "Vietnam"
+    "name": "Vietnam",
+    "lang": [
+      37,
+      80,
+      105,
+      264,
+      270,
+      454,
+      455,
+      456,
+      457
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 227,
   "fields": {
-    "name": "Vanuatu"
+    "name": "Vanuatu",
+    "lang": [
+      2,
+      23,
+      458
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 228,
   "fields": {
-    "name": "Wallis and Futuna"
+    "name": "Wallis and Futuna",
+    "lang": [
+      459,
+      460
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 229,
   "fields": {
-    "name": "Samoa"
+    "name": "Samoa",
+    "lang": [
+      2,
+      31,
+      461
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 230,
   "fields": {
-    "name": "Yemen"
+    "name": "Yemen",
+    "lang": [
+      25,
+      462
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 231,
   "fields": {
-    "name": "South Africa"
+    "name": "South Africa",
+    "lang": [
+      2,
+      87,
+      90,
+      163,
+      164,
+      317,
+      329,
+      463,
+      464,
+      465,
+      466
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 232,
   "fields": {
-    "name": "Zambia"
+    "name": "Zambia",
+    "lang": [
+      32,
+      314,
+      467,
+      468,
+      469,
+      470
+    ]
   }
 },
 {
   "model": "MainApp.country",
   "pk": 233,
   "fields": {
-    "name": "Zimbabwe"
+    "name": "Zimbabwe",
+    "lang": [
+      2,
+      87,
+      89,
+      314
+    ]
   }
 }
 ]
