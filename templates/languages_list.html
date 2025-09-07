@@ -2,10 +2,11 @@
 
 {% block content %}
     <ol class="list-group list-group-numbered">
-        {% for lang in languages %}
+        {% for lang in page_obj %}
             <li class="list-group-item">
             <a href="{% url 'language-page' lang.name %}">{{ lang.name }}</a>
             </li>
         {% endfor %}
     </ol>
+    {% include 'paginator.html' %}
 {% endblock %}

@@ -1,3 +1,5 @@
+from django.contrib.admin.templatetags.admin_list import pagination
+from django.core.paginator import Paginator
 from django.shortcuts import render, get_object_or_404
 import json
 from pathlib import Path
@@ -15,9 +17,13 @@ def home_page(request):
 
 def countries_list(request):
     countries = Country.objects.all()
+    paginator = Paginator(countries, 10)
+    page_number = request.GET.get('page')
+    page_obj = paginator.get_page(page_number)
     context = {
         "pagename": "Список стран",
-        "countries": countries
+        "countries": countries,
+        'page_obj': page_obj
     }
     return render(request, 'country_list.html', context)
 
@@ -34,10 +40,13 @@ def country_page(request, name):
 
 def languages_list(request):
     lang_list = Language.objects.all()
-
+    paginator = Paginator(lang_list, 20)
+    page_number = request.GET.get('page')
+    page_obj = paginator.get_page(page_number)
     context = {
         "pagename": "Список языков",
         "languages": lang_list,
+        'page_obj': page_obj
     }
     return render(request, 'languages_list.html', context)
 

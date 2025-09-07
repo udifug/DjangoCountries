@@ -2,11 +2,12 @@
 
 {% block content %}
     <ol class="list-group list-group-numbered">
-        {% for country in countries %}
+        {% for country in page_obj %}
             <li class="list-group-item">
                 <a href="{% url 'country-page' country.name %}">{{ country.name }}</a>
             </li>
         {% endfor %}
     </ol>
 
+    {% include 'paginator.html' %}
 {% endblock %}
